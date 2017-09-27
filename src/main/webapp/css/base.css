@@ -1,0 +1,9 @@
+.container {
+box-shadow: 0 0 8px 2px #ddd;
+-moz-box-shadow: 0 0 8px 2px #ddd;
+-o-box-shadow: 0 0 8px 2px #ddd;
+-webkit-box-shadow: 0 0 8px 2px #ddd;
+border: 1px solid #cecece;
+margin-top: 20px;
+margin-bottom: 20px;
+}
